@@ -10,7 +10,7 @@ I used Power BI to analyze a sales data and created a dashboard.
 This project analyzes sales of a store that sells computers of 6 brands and their accessories.
 It explores revenue, profit, regions of the different customers, colours and profit by income level.
 
-## Lesson
+## What I Learnt
 - Understanding my dataset.
 - Data Cleaning with MS Excel.
 - DAX formular; creating new measures.
