@@ -16,7 +16,7 @@ It explores revenue, profit, regions of the different customers, colours and pro
 - DAX formular; creating new measures.
 - Data visualization using Power BI.
 
-  ## Preview
+## Preview
   https://github.com/luluconfidencenwabuzo/Sales-Analysis-Project-with-Power-BI/commit/eb1237fe5d1c1a5be536c32d1b8a502386217065
 
 > Click the image above to see a preview of the final dashboard.
